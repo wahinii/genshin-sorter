@@ -51,400 +51,400 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Albedo",
-    img: "genshin1.png",
+    name: "8Ball",
+    img: "8Ball.png",
     opts: {
       men: true,
       mond: true
     }
   },
   {
-    name: "Aloy",
-    img: "genshin2.png",
+    name: "Absenz",
+    img: "Absenz.png",
 opts: {
     fem: true,
     lol: true
 }
   },
   {
-    name: "Arataki Itto",
-    img: "genshin3.png",
+    name: "Abyss",
+    img: "Abyss.png",
 opts: {
     men: true,
     ina: true
 }
   },
   {
-    name: "Barbara",
-    img: "genshin4.png",
+    name: "Agent Jones",
+    img: "AgentJones.png",
 opts: {
     fem: true,
     mond: true
 }
   },
   {
-    name: "Beidou",
-    img: "genshin5.png",
+    name: "Agent Peely",
+    img: "AgentPeely.png",
 opts: {
     fem: true,
     liy: true
 }
   },
   {
-    name: "Bennett",
-    img: "genshin6.png",
+    name: "AIM",
+    img: "AIM.png",
 opts: {
     men: true,
     mond: true
 }
   },
   {
-    name: "Chongyun",
-    img: "genshin7.png",
+    name: "Alli",
+    img: "Alli.png",
 opts: {
     men: true,
     liy: true
 }
   },
   {
-    name: "Keqing",
-    img: "genshin8.png",
+    name: "Antheia",
+    img: "Antheia.png",
 opts: {
     fem: true,
     liy: true
 }
   },
   {
-    name: "Diluc",
-    img: "genshin9.png",
+    name: "Arachne Couture",
+    img: "ArachneCouture.png",
 opts: {
     men: true,
     mond: true
 }
   },
   {
-    name: "Diona",
-    img: "genshin10.png",
+    name: "Aubrey",
+    img: "Aubrey.png",
 opts: {
     fem: true,
     mond: true
 }
   },
   {
-    name: "Eula",
-    img: "genshin11.png",
+    name: "Aura",
+    img: "Aura.png",
 opts: {
     fem: true,
     mond: true
 }
   },
   {
-    name: "Fischl",
-    img: "genshin12.png",
+    name: "Ava",
+    img: "Ava.png",
 opts: {
     fem: true,
     mond: true
 }
   },
   {
-    name: "Ganyu",
-    img: "genshin13.png",
+    name: "Azuki",
+    img: "Azuki.png",
 opts: {
     fem: true,
     liy: true
 }
   },
   {
-    name: "Gorou",
-    img: "genshin14.png",
+    name: "Birch",
+    img: "Birch.png",
 opts: {
     men: true,
     ina: true
 }
   },
   {
-    name: "Hu Tao",
-    img: "genshin15.png",
+    name: "Blackheart",
+    img: "Blizzabelle.png",
 opts: {
     fem: true,
     liy: true
 }
   },
   {
-    name: "Jean",
-    img: "genshin16.png",
+    name: "Brutus",
+    img: "Brutus.png",
 opts: {
     fem: true,
     mond: true
 }
   },
   {
-    name: "Kaedehara Kazuha",
-    img: "genshin17.png",
+    name: "Bundles",
+    img: "Bundles.png",
 opts: {
     men: true,
     ina: true
 }
   },
   {
-    name: "Kaeya",
-    img: "genshin18.png",
+    name: "Bunker Jonesy",
+    img: "BunkerJonesy.png",
 opts: {
     men: true,
     mond: true
 }
   },
   {
-    name: "Kamisato Ayaka",
-    img: "genshin19.png",
+    name: "Calamity",
+    img: "Calamity.png",
 opts: {
     fem: true,
     ina: true
 }
   },
   {
-    name: "Klee",
-    img: "genshin20.png",
+    name: "Cameo Vs Chic",
+    img: "CameoVSChic.png",
 opts: {
     fem: true,
     mond: true
 }
   },
   {
-    name: "Kujou Sara",
-    img: "genshin21.png",
+    name: "Camille",
+    img: "Camille.png",
 opts: {
     fem: true,
     ina: true
 }
   },
   {
-    name: "Lisa",
-    img: "genshin22.png",
+    name: "Caper",
+    img: "Caper.png",
 opts: {
     fem: true,
     mond: true
 }
   },
   {
-    name: "Mona",
-    img: "genshin23.png",
+    name: "Captain Jones",
+    img: "CaptainJones.png",
 opts: {
     fem: true,
     mond: true
 }
   },
   {
-    name: "Ningguang",
-    img: "genshin24.png",
+    name: "Carnage",
+    img: "Carnage.png",
 opts: {
     fem: true,
     liy: true
 }
   },
   {
-    name: "Noelle",
-    img: "genshin25.png",
+    name: "Catalyst",
+    img: "Catalyst.png",
 opts: {
     fem: true,
     mond: true
 }
   },
   {
-    name: "Qiqi",
-    img: "genshin26.png",
+    name: "Centurion",
+    img: "Centurion.png",
 opts: {
     fem: true,
     liy: true
 }
   },
   {
-    name: "Raiden Shogun",
-    img: "genshin27.png",
+    name: "Charlotte",
+    img: "Charlotte.png",
 opts: {
     fem: true,
     ina: true
 }
   },
   {
-    name: "Razor",
-    img: "genshin28.png",
+    name: "Chigusa",
+    img: "Chigusa.png",
 opts: {
     men: true,
     mond: true
 }
   },
   {
-    name: "Rosaria",
-    img: "genshin29.png",
+    name: "Cloaked Shadow",
+    img: "CloakedShadow.png",
 opts: {
     fem: true,
     mond: true
 }
   },
   {
-    name: "Sangonomiya Kokomi",
-    img: "genshin30.png",
+    name: "Cluck",
+    img: "Cluck.png",
 opts: {
     fem: true,
     ina: true
 }
   },
   {
-    name: "Sayu",
-    img: "genshin32.png",
+    name: "Clutch",
+    img: "Clutch.png",
 opts: {
     fem: true,
     ina: true
 }
   },
   {
-    name: "Shenhe",
-    img: "genshin33.png",
+    name: "Countess Daraku",
+    img: "CountessDaraku.png",
 opts: {
     fem: true,
     liy: true
 }
   },
   {
-    name: "Sucrose",
-    img: "genshin34.png",
+    name: "Cozy Commander",
+    img: "CozyCommander.png",
 opts: {
     fem: true,
     mond: true
 }
   },
   {
-    name: "Tartaglia (Childe)",
-    img: "genshin35.png",
+    name: "Cryptic",
+    img: "Cryptic.png",
 opts: {
     men: true,
     liy: true //should i add a snezhnaya one for this? i feel like it's unecessary since he's the only playable character from it so far. I'll keep him as liyueian for now
 }
   },
   {
-    name: "Thoma",
-    img: "genshin36.png",
+    name: "Crystal",
+    img: "Crystal.png",
 opts: {
     men: true,
     ina: true
 }
   },
   {
-    name: "Lumine",
-    img: "genshin37.png",
+    name: "CubeAssassin",
+    img: "CubeAssassin.png",
 opts: {
     fem: true,
     lol: true
 }
   },
   {
-    name: "Aether",
-    img: "genshin38.png",
+    name: "Dali",
+    img: "Dali.png",
 opts: {
     men: true,
     lol: true
 }
   },
   {
-    name: "Amber",
-    img: "genshin31.png",
+    name: "D'Ark",
+    img: "D'ark.png",
 opts: {
     fem: true,
     mond: true
 }
   },
   {
-    name: "Venti",
-    img: "genshin39.png",
+    name: "Dark Power Chord",
+    img: "DarkPowerChord.png",
 opts: {
     men: true,
     mond: true
 }
   },
   {
-    name: "Xiangling",
-    img: "genshin40.png",
+    name: "Dark Tricera Ops",
+    img: "DarkTriceraOps.png",
 opts: {
     fem: true,
     liy: true
 }
   },
   {
-    name: "Xiao",
-    img: "genshin41.png",
+    name: "Dark Vertex",
+    img: "DarkVertex.png",
 opts: {
     men: true,
     liy: true
 }
   },
   {
-    name: "Xingqiu",
-    img: "genshin42.png",
+    name: "Dark Voyager",
+    img: "DarkVoyager.png",
 opts: {
     men: true,
     liy: true
 }
   },
   {
-    name: "Xinyan",
-    img: "genshin43.png",
+    name: "Dawn",
+    img: "Dawn.png",
 opts: {
     fem: true,
     liy: true
 }
   },
   {
-    name: "Yae Miko",
-    img: "genshin44.png",
+    name: "Deadpool",
+    img: "Deadpool.png",
 opts: {
     fem: true,
     ina: true
 }
   },
   {
-    name: "Yanfei",
-    img: "genshin45.png",
+    name: "Demi",
+    img: "Demi.png",
 opts: {
     fem: true,
     liy: true
 }
   },
   {
-    name: "Yoimiya",
-    img: "genshin46.png",
+    name: "Demogorgon",
+    img: "Demogorgon.png",
 opts: {
     fem: true,
     ina: true
 }
   },
   {
-    name: "Yun Jin",
-    img: "genshin47.png",
+    name: "Demos",
+    img: "DerbyDynamo.png",
 opts: {
     fem: true,
     liy: true
 }
   },
   {
-    name: "Zhongli",
-    img: "genshin48.png",
+    name: "Desdemona",
+    img: "Desdemona.png",
 opts: {
     men: true,
     liy: true
 }
   },
   {
-    name: "Kamisato Ayato",
-    img: "genshinex1.png",
+    name: "Diamond Diva",
+    img: "DiamondDiva.png",
 opts: {
    men: true,
    ina: true
 }
   },
   {
-    name: "Dainslief",
-    img: "genshinex2.png",
+    name: "Dire",
+    img: "Dire.png",
 opts: {
    men: true,
    unr: true,
@@ -452,32 +452,32 @@ opts: {
 }
   },
   {
-    name: "Yelan",
-    img: "genshinex3.png",
+    name: "DJ Yonder",
+    img: "DJYonder.png",
 opts: {
    fem: true,
    liy: true
 }
   },
   {
-    name: "Kuki Shinobu",
-    img: "genshinex4.png",
+    name: "Doctor Doom",
+    img: "DoctorDoom.png",
 opts: {
    fem: true,
    ina: true
 }
   },
   {
-    name: "Yaoyao",
-    img: "genshinex5.png",
+    name: "Doom",
+    img: "Doom.png",
 opts: {
    fem: true,
    liy: true
 }
   },
   {
-    name: "Heizou",
-    img: "genshinex6.png",
+    name: "Doublecross",
+    img: "Doublecross.png",
 opts: {
    men: true,
    unr: false,
@@ -485,8 +485,8 @@ opts: {
 }
   },
   {
-    name: "Collei",
-    img: "Character_Collei_Card.png",
+    name: "Drakon Steel Hybrid",
+    img: "DrakonSteelHybrid.png",
 opts: {
    fem: true,
    unr: false,
@@ -494,8 +494,8 @@ opts: {
 }
   },
   {
-    name: "Dori",
-    img: "Character_Dori_Card.png",
+    name: "Dream",
+    img: "Dream.png",
 opts: {
    fem: true,
    unr: false,
@@ -503,8 +503,8 @@ opts: {
 }
   },
   {
-    name: "Tighnari",
-    img: "Character_Tighnari_Card.png",
+    name: "Drift",
+    img: "Drift.png",
 opts: {
    men: true,
    unr: false,
@@ -512,8 +512,8 @@ opts: {
 }
   },
   {
-    name: "Alhaitham",
-    img: "al haitham.png",
+    name: "Dusk",
+    img: "Dusk.png",
 opts: {
    men: true,
    unr: false,
@@ -521,8 +521,8 @@ opts: {
 }
   },
   {
-    name: "Cyno",
-    img: "cyno.jpg",
+    name: "Elite Agent",
+    img: "EliteAgent.png",
 opts: {
    men: true,
    unr: false,
@@ -530,8 +530,8 @@ opts: {
 }
   },
   {
-    name: "Deyha",
-    img: "deyha.png",
+    name: "Ember",
+    img: "Ember.png",
 opts: {
    fem: true,
    unr: false,
@@ -539,8 +539,8 @@ opts: {
 }
   },
   {
-    name: "Nahida",
-    img: "kusanali.png",
+    name: "Emma Frost",
+    img: "EmmaFrost.png",
 opts: {
    fem: true,
    unr: false,
@@ -548,8 +548,8 @@ opts: {
 }
   },
   {
-    name: "Nilou",
-    img: "nilou.jpg",
+    name: "Enforcer",
+    img: "Enforcer.png",
 opts: {
    fem: true,
    unr: false,
@@ -557,8 +557,8 @@ opts: {
 }
   },
   {
-    name: "Candace",
-    img: "candace.jpg",
+    name: "Era",
+    img: "Era.png",
 opts: {
    fem: true,
    unr: false,
@@ -566,8 +566,8 @@ opts: {
 }
   },
   {
-    name: "Layla",
-    img: "layla.png",
+    name: "EternalVoyager",
+    img: "EternalVoyager.png",
 opts: {
    fem: true,
    unr: false,
@@ -575,8 +575,8 @@ opts: {
 }
   },
   {
-    name: "Faruzan",
-    img: "faruzan.jpg",
+    name: "Etheria",
+    img: "Etheria.png",
 opts: {
    fem: true,
    unr: false,
@@ -584,8 +584,8 @@ opts: {
 }
   },
   {
-    name: "Wanderer (Scaramouche)",
-    img: "wanderer.jpg",
+    name: "Explorer Emilie",
+    img: "ExplorerEmilie.png",
 opts: {
    men: true,
    unr: false,
@@ -594,16 +594,16 @@ opts: {
 }
   },
   {
-    name: "Baizhu",
-    img: "baizhu.png",
+    name: "Fabio Sparklemane",
+    img: "FabioSparklemane.png",
 opts: {
    men: true,
    liy: true
 }
   },
   {
-    name: "Freminet",
-    img: "freminet.png",
+    name: "Fable",
+    img: "Fable.png",
 opts: {
    men: true,
    unr: false,
@@ -611,8 +611,8 @@ opts: {
 }
   },
   {
-    name: "Kaveh",
-    img: "kaveh.png",
+    name: "Fade",
+    img: "Fade.png",
 opts: {
    men: true,
    unr: false,
@@ -620,8 +620,8 @@ opts: {
 }
   },
   {
-    name: "Kirara",
-    img: "kirara.png",
+    name: "Fanatic",
+    img: "Fanatic.png",
 opts: {
    fem: true,
    unr: false,
@@ -629,8 +629,8 @@ opts: {
 }
   },
   {
-    name: "Lynette",
-    img: "lynette.png",
+    name: "Felina",
+    img: "Felina.png",
 opts: {
    fem: true,
    unr: false,
@@ -638,8 +638,8 @@ opts: {
 }
   },
   {
-    name: "Lyney",
-    img: "lyney.png",
+    name: "Festival Lace",
+    img: "FestivalLace.png",
 opts: {
    men: true,
    unr: false,
@@ -647,8 +647,8 @@ opts: {
 }
   },
   {
-    name: "Mika",
-    img: "mika2.png",
+    name: "Festival Phaedra",
+    img: "FestivalPhaedra.png",
 opts: {
    men: true,
    unr: false,
@@ -656,16 +656,16 @@ opts: {
 }
   },
   {
-    name: "Neuvillette",
-    img: "neuvillete.png",
+    name: "Flapjackie",
+    img: "Flapjackie.png",
 opts: {
    men: true,
    fon: true
 }
   },
   {
-    name: "Wriothsely",
-    img: "wriothesley.png",
+    name: "Frost Squad",
+    img: "FrostSquad.png",
 opts: {
    men: true,
    unr: false,
@@ -673,8 +673,8 @@ opts: {
 }
   },
   {
-    name: "Furina",
-    img: "Furina_Card.png",
+    name: "Fusion",
+    img: "Fusion.png",
 opts: {
    fem: true,
    unr: false,
@@ -682,8 +682,8 @@ opts: {
 }
   },
   {
-    name: "Charlotte",
-    img: "Charlotte_Card.png",
+    name: "Galaxia",
+    img: "Galaxia.png",
 opts: {
    fem: true,
    unr: false,
@@ -691,8 +691,8 @@ opts: {
 }
   },
   {
-    name: "Clorinde",
-    img: "NPC_Clorinde.png",
+    name: "Gear Specialist Maya",
+    img: "GearSpecialistMaya.png",
 opts: {
    fem: true,
    unr: false,
@@ -700,8 +700,8 @@ opts: {
 }
   },
   {
-    name: "Navia",
-    img: "NPC_Navia.png",
+    name: "Giddy-Up",
+    img: "Giddy-Up.png",
 opts: {
    fem: true,
    unr: false,
@@ -709,8 +709,8 @@ opts: {
 }
   },
   {
-    name: "Chevreuse",
-    img: "Chevreuse.png",
+    name: "Glitch",
+    img: "Glitch.png",
 opts: {
    fem: true,
    unr: false,
@@ -718,8 +718,8 @@ opts: {
 }
   },
   {
-    name: "Chiori",
-    img: "Chiori.png",
+    name: "Green Arrow",
+    img: "GreenArrow.png",
 opts: {
    fem: true,
    unr: true,
@@ -727,8 +727,8 @@ opts: {
 }
   },
   {
-    name: "Gaming",
-    img: "Gaming.png",
+    name: "Grind",
+    img: "Grind.png",
 opts: {
    men: true,
    unr: false,
@@ -736,8 +736,1601 @@ opts: {
 }
   },
   {
-    name: "Xianyun",
-    img: "Xianyun.png",
+    name: "Groot",
+    img: "Groot.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Gwenpool",
+    img: "Gwenpool.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Halley",
+    img: "Halley.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Haven",
+    img: "Haven.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Haze",
+    img: "Haze.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Holiday Boxy",
+    img: "HolidayBoxy.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Hope",
+    img: "Hope.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Huntress",
+    img: "Huntress.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Hybrid",
+    img: "Hybrid.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Imperial Stormtrooper",
+    img: "Imperial Stormtrooper.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Iris",
+    img: "Iris.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "J.B. Chimpanski",
+    img: "J.B.Chimpanski.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Jackie",
+    img: "Jackie.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Jennifer Walters",
+    img: "JenniferWalters.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Jing",
+    img: "Jing.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "John Wick",
+    img: "JohnWick.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Joltara",
+    img: "Joltara.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Journey VS Hazard",
+    img: "JourneyVSHazard.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Karol G",
+    img: "KarolG.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Keleritas",
+    img: "Keleritas.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Kondor",
+    img: "Kondor.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Kor",
+    img: "Kor.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Krisabelle",
+    img: "Krisabelle.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Kuno",
+    img: "Kuno.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Kymera",
+    img: "Kymera.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Lace",
+    img: "Lace.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Laguna",
+    img: "Laguna.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Lana Llane",
+    img: "Lana Llane.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Lara Croft",
+    img: "LaraCroft.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Leelah",
+    img: "Leelah.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Lexa",
+    img: "Lexa.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Lil Split",
+    img: "LilSplit.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Lizzik",
+    img: "Lizzik.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Llamabro",
+    img: "Llamabro.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Lt Evergreen",
+    img: "LtEvergreen.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Lt John Llama",
+    img: "LtJohnLlama.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Luxe",
+    img: "Luxe.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Lynx",
+    img: "Lynx.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Mancake",
+    img: "Mancake.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Mandalorian",
+    img: "Mandalorian.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Manic",
+    img: "Manic.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Marigold",
+    img: "Marigold.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Master Key",
+    img: "MasterKey.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Mave",
+    img: "Mave.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Mecha Cuddle Master",
+    img: "MechaCuddleMaster.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Megumi",
+    img: "Megumi.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Menace",
+    img: "Menace.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Meowscles",
+    img: "Meowscles.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Midas",
+    img: "Midas.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Midnight Dusk",
+    img: "MidnightDusk.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "MissionSpecialist",
+    img: "MissionSpecialist.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Molten Omen",
+    img: "MoltenOmen.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Montague",
+    img: "Montague.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Moonwalker",
+    img: "Moonwalker.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Mysterio",
+    img: "Mysterio.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Mystique",
+    img: "Mystique.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Nightshade",
+    img: "Nightshade.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Nightsurf Bomber",
+    img: "Nightsurf Bomber.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Nisha",
+    img: "Nisha.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Nog Ops",
+    img: "NogOps.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Ocean",
+    img: "Ocean.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Omegarok",
+    img: "Omegarok.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Onesie",
+    img: "Onesie.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Oscar",
+    img: "Oscar.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Panda Team Leader",
+    img: "PandaTeamLeader.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Peelverine",
+    img: "Peelverine.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Peely",
+    img: "Peely.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Peter Griffen",
+    img: "PeterGriffen.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "PolarPeely",
+    img: "PolarPeely.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Polus",
+    img: "Polus.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Powder",
+    img: "Powder.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Predator",
+    img: "Predator.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Ragnarok",
+    img: "Ragnarok.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Raven Team Leader",
+    img: "RavenTeamLeader.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Raz",
+    img: "Raz.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Rebirth Raven",
+    img: "RebirthRaven.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Red Jade",
+    img: "RedJade.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Redline",
+    img: "Redline.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Reese",
+    img: "Reese.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Reina",
+    img: "Reina.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Remedy VS Toxin",
+    img: "RemedyVSToxin.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Renegade Lynx",
+    img: "RenegadeLynx.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Reverie",
+    img: "Reverie.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Rian",
+    img: "Rian.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Rippley VS Sludge",
+    img: "RippleyVSSludge.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Rogue",
+    img: "Rogue.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Ronin",
+    img: "Ronin.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Rook",
+    img: "Rook.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Rose Team Leader",
+    img: "RoseTeamLeader.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Rox",
+    img: "Rox.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Rue",
+    img: "Rue.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Ruin",
+    img: "Ruin.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Runway Racer",
+    img: "RunwayRacer.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Rust Lord",
+    img: "RustLord.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Scarlet Witch",
+    img: "ScarletWitch.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Scourge",
+    img: "Scourge.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Scrapknight Jules",
+    img: "ScrapknightJules.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Scuba Crystal",
+    img: "ScubaCrystal.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Scuba Jonesy",
+    img: "Scuba Jonesy.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Seeker",
+    img: "Seeker.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Sentinel",
+    img: "Sentinel.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Sgt Winter",
+    img: "SgtWinter.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Shadow Ark",
+    img: "ShadowArk.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Shanta",
+    img: "Shanta.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Shogun",
+    img: "Shogun.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Shuri",
+    img: "Shuri.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Sica",
+    img: "Sica.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Sidewinder",
+    img: "Sidewinder.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Sierra",
+    img: "Sierra.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Silas Hesk",
+    img: "SilasHesk.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Singularity",
+    img: "Singularity.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Siren",
+    img: "Siren.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Sith Trooper",
+    img: "SithTrooper.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Skull Ranger",
+    img: "SkullRanger.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Skull Scout",
+    img: "SkullScout.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Skully",
+    img: "Skully.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Skye",
+    img: "Skye.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Sledgehammer",
+    img: "Sledgehammer.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Snowbell",
+    img: "Snowbell.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Snowdancer",
+    img: "Snowdancer.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Snowmando",
+    img: "Snowmando.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Solid Snake",
+    img: "SolidSnake.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Sorana",
+    img: "Sorana.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Sorina",
+    img: "Sorina.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Sparkle Supreme",
+    img: "SparkleSupreme.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Spectra Knight",
+    img: "SpectraKnight.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Spire Assassin",
+    img: "SpireAssassin.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Spirit Hunter Saeko",
+    img: "SpiritHunterSaeko.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Splatterella",
+    img: "Splatterella.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Star-Spangled Ranger",
+    img: "StarSpangledRanger.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Storm",
+    img: "Storm.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Stratus",
+    img: "Stratus.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Summit Striker",
+    img: "SummitStriker.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Sunbird",
+    img: "Sunbird.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Sun Strider",
+    img: "SunStrider.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Tarana",
+    img: "Tarana.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "The Ace",
+    img: "TheAce.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "The Autumn Queen",
+    img: "TheAutumnQueen.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "The Cube Queen",
+    img: "TheCubeQueen.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "The Ice King",
+    img: "TheIceKing.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "The Machinist",
+    img: "TheMachinist.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "The Prisoner",
+    img: "ThePrisoner.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "The Scientist",
+    img: "TheScientist.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Thor",
+    img: "Thor.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Tigress",
+    img: "Tigress.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Tilted Teknique",
+    img: "TiltedTeknique.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Tntina",
+    img: "Tntina.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Tony Stark",
+    img: "TonyStark.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Toona Fish",
+    img: "ToonaFish.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Torin",
+    img: "Torin.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Trace",
+    img: "Trace.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Travis Scott",
+    img: "TravisScott.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Triple Threat",
+    img: "TripleThreat.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Trog",
+    img: "Trog.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Tsuki",
+    img: "Tsuki.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Turk VS Riptide",
+    img: "TurkVSRiptide.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Ultima Knight",
+    img: "UltimaKnight.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Valeria",
+    img: "Valeria.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Vega",
+    img: "Vega.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Vendetta",
+    img: "Vendetta.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Vengeance Jones",
+    img: "VengeanceJones.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Vi",
+    img: "VI.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "War Machine",
+    img: "WarMachine.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Warpaint",
+    img: "Warpaint.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Wavebreaker",
+    img: "Wavebreaker.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Whiteout",
+    img: "Whiteout.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Wilde",
+    img: "Wilde.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Windwalker Echo",
+    img: "WindwalkerEcho.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Wingman",
+    img: "Wingman.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Winterfest Bushranger",
+    img: "WinterfestBushranger.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Wolverine",
+    img: "Wolverine.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Wooly Warrior",
+    img: "WoolyWarrior.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "X-Lord",
+    img: "X-Lord.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Yond3r",
+    img: "Yond3r.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Yuki",
+    img: "Yuki.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Zenith",
+    img: "Zenith.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Zorgoton",
+    img: "Zorgoton.png",
+opts: {
+   fem: true,
+   unr: false,
+   liy: true
+}
+  },
+  {
+    name: "Lexa Harbinger",
+    img: "LexaHarbinger.png",
 opts: {
    fem: true,
    unr: false,
@@ -745,3 +2338,4 @@ opts: {
 }
   }
 ]  
+
